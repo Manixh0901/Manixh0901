@@ -59,23 +59,19 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-
-## 🚀 Featured Projects
-<!--
-📌 [Project Name](link-to-repo)  
-📝 Short description of what it does, what tech was used, and why it's interesting.
--->
-
----
-
 ## 🗂️ Career Timeline
-<!--
+<--
 - 🧑‍💻 2020 - Started with Linux & Networking
 - ☁️ 2021 - Learned Cloud Fundamentals (AWS, Azure)
 - 🔐 2022 - Focused on Security & CI/CD automation
 - 💼 2023 - Joined renowned Data Center  as an Network and system administrator
 - 💼 2024 - Virtual Internship in Cybersecurity
 - 💼 2025 - Joined IT company as DevSecOps Engineer
+--> 
+##--- 🚀 Featured Projects
+<!--
+📌 [Project Name](link-to-repo)  
+📝 Short description of what it does, what tech was used, and why it's interesting.
 -->
 
 ---
