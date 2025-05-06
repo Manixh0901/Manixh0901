@@ -36,10 +36,15 @@
 
 ---
 
-## 🔐 IT & Security Interests:
-- 🔐 Passionate about **Infrastructure Security** and **DevSecOps**
-- 🛡️ Familiar with **Vulnerability Assessment**, **Firewalls**, **SIEM tools**, and **Cloud Security Best Practices**
-- 💾 Keen on practicing **secure CI/CD pipelines** and **compliance-driven automation**
+## 🔐 IT & Security Interests
+
+- 🛠️ **DevSecOps Enthusiast** – Played a key role in integrating security at every stage of the SDLC.
+- ☁️ **Cloud-Based Application Deployment** – Successfully deployed production-grade applications on cloud platforms with security-first principles.
+- 🔒 **Security Hardening** – Identified and mitigated vulnerabilities using IAM best practices, firewall rules, and system-level configurations.
+- 🧪 **Build Vulnerability Scanning** – Integrated open-source tools like Trivy and OWASP Dependency-Check into CI/CD pipelines for automated scanning.
+- 📜 **Log Management & Monitoring** – Deployed ELK stack and Prometheus-Grafana combo to track app behavior, anomalies, and security events.
+- 🔁 **CI/CD Security Integration** – Hardened pipelines by embedding security checks within Jenkins and GitHub Actions workflows.
+- ✅ **Compliance & Auditing** – Contributed to audit readiness by automating evidence generation and improving traceability of deployments.
 
 ---
 
@@ -59,6 +64,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
+
+## 🚀 Featured Projects
+<--
+<!--📌 [Project Name](link-to-repo)  -->
+📝 Led the deployment of production-grade applications on cloud platforms using a security-first approach. I integrated security at every stage of the SDLC by embedding tools like Trivy and OWASP Dependency-Check into CI/CD pipelines, enforcing automated vulnerability scanning. Implemented IAM best practices, firewall policies, and system hardening to proactively address risks. Enhanced observability using the ELK stack and Prometheus-Grafana, enabling real-time tracking of anomalies. Also ensured audit readiness through log centralization and automated compliance reporting, while strengthening CI/CD workflows with security gates in Jenkins and GitHub Actions. 
+-->
+
+---
+
 ## 🗂️ Career Timeline
 <--
 - 🧑‍💻 2020 - Started with Linux & Networking
@@ -66,14 +80,13 @@
 - 🔐 2022 - Focused on Security & CI/CD automation
 - 💼 2023 - Joined renowned Data Center  as an Network and system administrator
 - 💼 2024 - Virtual Internship in Cybersecurity
-- 💼 2025 - Joined IT company as DevSecOps Engineer
+- 💼 2025 - **DevSecOps Engineer at Sterling Wells Pvt Ltd
+  - Deployed cloud-native applications with security-first architecture.
+  - Integrated open-source security tools for build scanning, runtime monitoring, and logging.
+  - Built secure CI/CD pipelines and automated compliance reporting.
 -->
-  
-## 🚀 Featured Projects
-<!--
-📌 [Project Name](link-to-repo)  
-📝 Short description of what it does, what tech was used, and why it's interesting.
--->
+
+---
 
 ## 📝 Blog & Portfolio
 <!--
