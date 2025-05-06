@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-adhikari2799) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhikarimanish49@gmail.com)
+<!-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhikarimanish49@gmail.com) -->
 
 ---
 
@@ -66,15 +66,12 @@
 ---
 
 ## 🚀 Featured Projects
-<--
 <!--📌 [Project Name](link-to-repo)  -->
 📝 Led the deployment of production-grade applications on cloud platforms using a security-first approach. I integrated security at every stage of the SDLC by embedding tools like Trivy and OWASP Dependency-Check into CI/CD pipelines, enforcing automated vulnerability scanning. Implemented IAM best practices, firewall policies, and system hardening to proactively address risks. Enhanced observability using the ELK stack and Prometheus-Grafana, enabling real-time tracking of anomalies. Also ensured audit readiness through log centralization and automated compliance reporting, while strengthening CI/CD workflows with security gates in Jenkins and GitHub Actions. 
--->
 
 ---
 
 ## 🗂️ Career Timeline
-<--
 - 🧑‍💻 2020 - Started with Linux & Networking
 - ☁️ 2021 - Learned Cloud Fundamentals (AWS, Azure)
 - 🔐 2022 - Focused on Security & CI/CD automation
@@ -84,7 +81,6 @@
   - Deployed cloud-native applications with security-first architecture.
   - Integrated open-source security tools for build scanning, runtime monitoring, and logging.
   - Built secure CI/CD pipelines and automated compliance reporting.
--->
 
 ---
 
