@@ -67,14 +67,13 @@
 - 💼 2023 - Joined renowned Data Center  as an Network and system administrator
 - 💼 2024 - Virtual Internship in Cybersecurity
 - 💼 2025 - Joined IT company as DevSecOps Engineer
---> 
-##--- 🚀 Featured Projects
+-->
+  
+## 🚀 Featured Projects
 <!--
 📌 [Project Name](link-to-repo)  
 📝 Short description of what it does, what tech was used, and why it's interesting.
 -->
-
----
 
 ## 📝 Blog & Portfolio
 <!--
